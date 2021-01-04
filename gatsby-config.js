@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
+    siteTitle: `reggsBlog`,
+    defaultTitle: `reggsBlog`,
+    siteTitleShort: `reggsBlog`,
+    siteDescription: `Reggaeman Blog`,
     siteUrl: `https://rocketdocs.netlify.com`,
     siteAuthor: `@rocketseat`,
-    siteImage: `/banner.png`,
+    siteImage: `/favicon.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
