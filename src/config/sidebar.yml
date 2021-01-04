@@ -1,9 +1,25 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'Welcome'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
+- label: Music
+  items:
+    - label: 'My 150'
+      link: '/music/my150'
+- label: Helis
+  items:
+    - label: 'Heli Vids'
+      link: '/helis/heliVids'
+    - label: 'VN Heli Vids'
+      link: '/helis/vn'
+    - label: 'Film Clips'
+      link: '/helis/filmFootage'
+- label: Films
+  items:
+    - label: 'Reviews'
+      link: '/films/reviews'
+    - label: 'Shootouts'
+      link: '/films/shoot'
 - label: Usage
   items:
     - label: 'Creating docs'
