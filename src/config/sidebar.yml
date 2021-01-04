@@ -6,6 +6,10 @@
   items:
     - label: 'My 150'
       link: '/music/my150'
+- label: Biking
+  items:
+    - label: 'Jump Bikes'
+      link: '/mtb/jumps'
 - label: Helis
   items:
     - label: 'Heli Vids'
