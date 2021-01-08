@@ -6,10 +6,26 @@
   items:
     - label: 'My 150 (part 1)'
       link: '/music/my150'
+    - label: 'My Wishlist'
+      link: '/music/wishlist'
 - label: Biking
   items:
     - label: 'Jump Bikes'
       link: '/mtb/jumps'
+    - label: 'Skills'
+      link: '/mtb/skills'
+- label: Arma 3
+  items:
+    - label: 'Commentary'
+      link: '/arma3/commentary'
+    - label: 'Flight School'
+      link: '/arma3/flightschool'
+    - label: 'Killchain'
+      link: '/arma3/killchain'
+    - label: 'Voice Ops'
+      link: '/arma3/voiceops'
+    - label: 'Scripting'
+      link: '/arma3/scripting'
 - label: Helis
   items:
     - label: 'Heli Vids'
